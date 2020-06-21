@@ -19,7 +19,7 @@ int main()
             maximum=k;
         }
     }
-    cout<<maximum;
+    cout<<maximum<<"\n";
   }
     return 0;
 }
